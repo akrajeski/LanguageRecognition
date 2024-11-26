@@ -1,8 +1,14 @@
-# 🎈 Blank app template
+# German Language Recognition
+This project is committed to helping those whose primary language is not German and are preparing to increase their fluency based on a CEFR (Common European Framework of Reference for Languages) scale. 
+This project has multiple facets, and uses Machine Learning Techniques in order to interact with the user to determine their skill level.
 
-A simple Streamlit app template for you to modify!
+# Vision
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+# Features
+
+
+# Setup Instructions
+
 
 ### How to run it on your own machine
 
