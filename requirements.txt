@@ -1,2 +1,3 @@
 streamlit
 pip install nltk
+pip install streamlit spacy scikit-learn pandas joblib
